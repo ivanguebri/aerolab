@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Implementation for
+[This Challenge](https://github.com/goncy/aerolab-challenge)
+
+[This is](https://www.youtube.com/watch?v=87KC6LBR54k) the companion video.
+In addition to the suggested implementation I've added the following (It reads
+as a TODO because I've used it as a development plan also):
+
+## TODO
+[ ] Use the redeemHistory in order to show a list of products for the current
+user
+[ ] Hit the API (in the companion video we use mocks).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
