@@ -1,5 +1,4 @@
-# Implementation for
-[This Challenge](https://github.com/goncy/aerolab-challenge)
+# Implementation for [This Challenge](https://github.com/goncy/aerolab-challenge)
 
 [This is](https://www.youtube.com/watch?v=87KC6LBR54k) the companion video.
 In addition to the suggested implementation I've added the following (It reads
